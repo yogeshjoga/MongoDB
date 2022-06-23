@@ -14,7 +14,7 @@ In MongoDB we can store data JSON formate.
 MongoDB ex: 
 {"first name": "Yogesh",
  "lastName":"joga",}
- 
+ ```sql
  Sql server                             MongoDB
  ---------------------------------------------------------------
  Database                               Database
@@ -25,6 +25,6 @@ MongoDB ex:
  Joining                                Linking & Embedding
  ---------------------------------------------------------------
  
- 
+ ```
  
  
