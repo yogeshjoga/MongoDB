@@ -8,13 +8,13 @@ No SQL database
      easyto develop REST API in JSON
   It is highly scalable and flexible database.
   
-  
+ ```sql
 we can store data in mysql or orcle by using tables 
 In MongoDB we can store data JSON formate.
 MongoDB ex: 
 {"first name": "Yogesh",
  "lastName":"joga",}
- ```sql
+
  Sql server                             MongoDB
  ---------------------------------------------------------------
  Database                               Database
