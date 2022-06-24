@@ -26,5 +26,13 @@ MongoDB ex:
  ---------------------------------------------------------------
  
  ```
+# Some of the MongoDB commands (terminal or cmd purpose)
  
+ 
+# CRUD operations in mongoDB
+  Create 
+  Read
+  Update
+  Delete
+  
  
