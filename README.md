@@ -27,12 +27,19 @@ MongoDB ex:
  
  ```
 # Some of the MongoDB commands (terminal or cmd purpose)
- 
- 
+ db (current db)
+ use (switch or create)
+  
 # CRUD operations in mongoDB
+```java
   Create 
   Read
   Update
   Delete
   
+  
+  add collection
+      db database-name.insert({
+  
  
+```
